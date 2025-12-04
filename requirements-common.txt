@@ -29,3 +29,4 @@ onnxscript!=0.3.2
 openvino
 # for grain_dataset_adapter_test.py
 grain
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
